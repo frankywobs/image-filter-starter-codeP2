@@ -47,7 +47,6 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
       deleteLocalFiles([filtered_image]);
     });
 
-
   });
   //! END @TODO1
   
